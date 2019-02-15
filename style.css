@@ -1,0 +1,128 @@
+/**
+ * Float Layout Activity
+ **/
+
+ * {
+  box-sizing: border-box;
+  text-align: center;
+
+}
+
+  
+body { 
+  font-size: 18px;
+  color: #777;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  background: #777;
+  width: 960px;
+  margin: 0 auto;
+        
+
+}
+
+
+header, nav, section, aside, footer  {
+  background: #ebebeb;
+
+
+
+}
+
+ 
+
+h1, p {
+  color: #777;
+  background: #ebebeb;
+
+
+} 
+
+header {
+  padding: 30px;
+  margin-top: 8px;
+     
+
+
+}
+
+nav {
+  padding: 30px;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+
+
+/*--- Second half of page  ----*/
+
+section { 
+  position: absolute;
+  width: 495px;
+  padding-bottom: 220px;
+}
+
+  
+
+  
+#articleheader {
+  width: 470px;
+  height: 220px;
+  margin-left: 12px;
+  margin-top: 76px;
+  color: #ebebeb;
+  background:#777;
+  position: absolute;
+    
+}
+    
+
+
+
+/*------h1,h2,h3--------*/
+#heading {
+  position: absolute;
+  width: 440px;
+  margin-left: 28px;
+  padding-top: 20px;
+  padding-bottom: 28px;
+  top: 314px;
+  background: #ebebeb;
+   
+ 
+}
+
+
+#paragraph {
+  position: absolute;
+  width: 440px;
+  margin-left: 28px;
+  padding: 20px;
+  top: 390px;
+}
+
+aside {
+  position: absolute;
+  padding-top: 7px;
+  padding-left: 170px;
+  padding-right: 168px;
+  padding-bottom: 215px;
+  margin-left: 520px;
+
+}
+
+#footer { 
+  position: relative;
+  top: 305px;
+  padding: 30px;
+  margin-top: 8px;
+  margin-bottom: 10px;
+  
+}
+
+
+
+  
+
+  
+ 
+
+  
